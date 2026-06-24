@@ -46,6 +46,16 @@ The transmitter sends encoded RF commands which are received and decoded by the 
 6. Relay driver activates the relay.
 7. Connected AC/DC load turns ON or OFF.
 
+## Project Gallery
+
+### Circuit Diagram
+![Circuit Diagram](Images/Circuit.jfif)
+
+### PCB Design
+![PCB Layout](Images/PCB.jfif)
+
+### Demonstration Video
+[Watch Demo](Images/Demo.mp4)
 ---
 
 ## Applications
